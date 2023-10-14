@@ -20,5 +20,3 @@ What I learned from this project:
 4. **Algorithm Design and Implementation for Tic-Tac-Toe**:
    - Crafting algorithms for implementing the classic Tic-Tac-Toe game, enhancing problem-solving and logical thinking skills.
    - Learning to create and optimize the game's logic.
-
-In summary, this project provided me with a comprehensive set of skills and knowledge in cryptography, file system operations, data manipulation, and algorithm design while offering practical experience in integrating diverse functionalities into a single software project.
