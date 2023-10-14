@@ -5,9 +5,9 @@ As a beginner project, I tried creating the classic Tic-Tac-Toe game using the P
 What I learned from this project:
 
 1. **Comprehensive Understanding of Cryptography**:
-   a. Understanding the principles and techniques behind cryptography.
-   b. Mastering the art of encrypting data, ensuring its security and confidentiality.
-   c. Skillfully decrypting data, allowing for information retrieval in a secure and controlled manner.
+   - Understanding the principles and techniques behind cryptography.
+   - Mastering the art of encrypting data, ensuring its security and confidentiality.
+   - Skillfully decrypting data, allowing for information retrieval in a secure and controlled manner.
 
 2. **File System Manipulation with os Library**:
    - Proficiency in navigating and manipulating files and directories using the os library, a fundamental skill in working with file systems and file operations.
