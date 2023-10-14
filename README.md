@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Ransomware
 
-As a beginner project, tried creating the classic Tic-Tac-Toe game using the Pygame framework and then extended the project's scope to introduce ransomware, employing the Cryptography library for encryption and decryption functionalities.
+As a beginner project, I tried creating the classic Tic-Tac-Toe game using the Pygame framework and then extended the project's scope to introduce ransomware, employing the Cryptography library for encryption and decryption functionalities.
 
 What I learned from this project:
 
